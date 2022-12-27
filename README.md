@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ariel Torch LLC
 
 - 🔭 I’m currently working on our company website
 - 🌱 I’m currently learning Gatsby
